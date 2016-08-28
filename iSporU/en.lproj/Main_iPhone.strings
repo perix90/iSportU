@@ -1,0 +1,237 @@
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "27c-lo-1qH"; */
+"27c-lo-1qH.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "3M0-3K-u7O"; */
+"3M0-3K-u7O.normalTitle" = "Volver";
+
+/* Class = "IBUILabel"; text = "Nivel"; ObjectID = "422-OI-PfQ"; */
+"422-OI-PfQ.text" = "Nivel";
+
+/* Class = "IBUILabel"; text = "User"; ObjectID = "4QI-eW-VXR"; */
+"4QI-eW-VXR.text" = "User";
+
+/* Class = "IBUILabel"; text = "Hora"; ObjectID = "4h8-JT-xmD"; */
+"4h8-JT-xmD.text" = "Hora";
+
+/* Class = "IBUILabel"; text = "Lugar"; ObjectID = "6DH-4l-u8h"; */
+"6DH-4l-u8h.text" = "Lugar";
+
+/* Class = "IBUIButton"; normalTitle = "Select Picture"; ObjectID = "6Od-0e-uQh"; */
+"6Od-0e-uQh.normalTitle" = "Select Picture";
+
+/* Class = "IBUILabel"; text = "eventos"; ObjectID = "6cL-d4-0Va"; */
+"6cL-d4-0Va.text" = "eventos";
+
+/* Class = "IBUILabel"; text = "Deporte"; ObjectID = "6mS-NP-Jw9"; */
+"6mS-NP-Jw9.text" = "Deporte";
+
+/* Class = "IBUILabel"; text = "Buscar eventos"; ObjectID = "6nu-pM-hOU"; */
+"6nu-pM-hOU.text" = "Buscar eventos";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "6uz-pf-33q"; */
+"6uz-pf-33q.normalTitle" = "Volver";
+
+/* Class = "IBUILabel"; text = "eventName"; ObjectID = "8wD-0X-rlV"; */
+"8wD-0X-rlV.text" = "eventName";
+
+/* Class = "IBUIBarButtonItem"; title = "Cerrar Sesión"; ObjectID = "90d-7s-kgM"; */
+"90d-7s-kgM.title" = "Cerrar Sesión";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "Bpz-RD-D2a"; */
+"Bpz-RD-D2a.normalTitle" = "Volver";
+
+/* Class = "IBUILabel"; text = "Deporte favorito"; ObjectID = "Bzb-qT-Gai"; */
+"Bzb-qT-Gai.text" = "Deporte favorito";
+
+/* Class = "IBUILabel"; text = "Ciudad del evento*"; ObjectID = "CO1-Wx-44x"; */
+"CO1-Wx-44x.text" = "Ciudad del evento*";
+
+/* Class = "IBUILabel"; text = "Pais"; ObjectID = "Ezu-Bm-mxt"; */
+"Ezu-Bm-mxt.text" = "Pais";
+
+/* Class = "IBUILabel"; text = "Terminos y condiciones"; ObjectID = "FaV-Zy-hF8"; */
+"FaV-Zy-hF8.text" = "Terminos y condiciones";
+
+/* Class = "IBUILabel"; text = "Place"; ObjectID = "GIb-h9-SqZ"; */
+"GIb-h9-SqZ.text" = "Place";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar"; ObjectID = "GYy-Ne-aC5"; */
+"GYy-Ne-aC5.normalTitle" = "Continuar";
+
+/* Class = "IBUILabel"; text = "en tu zona"; ObjectID = "H9A-GQ-X9H"; */
+"H9A-GQ-X9H.text" = "en tu zona";
+
+/* Class = "IBUIButton"; normalTitle = "SI, ACEPTO"; ObjectID = "HGG-Cf-q2A"; */
+"HGG-Cf-q2A.normalTitle" = "SI, ACEPTO";
+
+/* Class = "IBUILabel"; text = "Ciudad"; ObjectID = "Hdf-ld-jvj"; */
+"Hdf-ld-jvj.text" = "Ciudad";
+
+/* Class = "IBUILabel"; text = "Vacantes"; ObjectID = "I6f-sS-e02"; */
+"I6f-sS-e02.text" = "Vacantes";
+
+/* Class = "IBUINavigationItem"; title = "Eventos creados"; ObjectID = "Le3-f4-14J"; */
+"Le3-f4-14J.title" = "Eventos creados";
+
+/* Class = "IBUILabel"; text = "Agregar tus propios"; ObjectID = "Lh9-8P-mRN"; */
+"Lh9-8P-mRN.text" = "Agregar tus propios";
+
+/* Class = "IBUILabel"; text = "Edad"; ObjectID = "MgM-oy-2Rj"; */
+"MgM-oy-2Rj.text" = "Edad";
+
+/* Class = "IBUILabel"; text = "4.- Tus datos son reales y exactos"; ObjectID = "Nj8-xE-98h"; */
+"Nj8-xE-98h.text" = "4.- Tus datos son reales y exactos";
+
+/* Class = "IBUILabel"; text = "almacenados"; ObjectID = "OPq-CI-Q7U"; */
+"OPq-CI-Q7U.text" = "almacenados";
+
+/* Class = "IBUILabel"; text = "Sportname"; ObjectID = "OZy-hF-aRr"; */
+"OZy-hF-aRr.text" = "Sportname";
+
+/* Class = "IBUILabel"; text = "Vacants:"; ObjectID = "PAB-mg-xkw"; */
+"PAB-mg-xkw.text" = "Vacants:";
+
+/* Class = "IBUILabel"; text = "1.- No es una app de citas"; ObjectID = "POL-CE-fy1"; */
+"POL-CE-fy1.text" = "1.- No es una app de citas";
+
+/* Class = "IBUILabel"; text = "Hour"; ObjectID = "PYE-X1-TSk"; */
+"PYE-X1-TSk.text" = "Hour";
+
+/* Class = "IBUILabel"; text = "Fecha"; ObjectID = "PYn-ez-LKt"; */
+"PYn-ez-LKt.text" = "Fecha";
+
+/* Class = "IBUILabel"; text = "Nombre evento"; ObjectID = "Sxn-fp-bg1"; */
+"Sxn-fp-bg1.text" = "Nombre evento";
+
+/* Class = "IBUIButton"; normalTitle = "Crear Evento"; ObjectID = "T8D-cY-ADz"; */
+"T8D-cY-ADz.normalTitle" = "Crear Evento";
+
+/* Class = "IBUILabel"; text = "City"; ObjectID = "Tis-FV-8nh"; */
+"Tis-FV-8nh.text" = "City";
+
+/* Class = "IBUIButton"; normalTitle = "Ver eventos creados"; ObjectID = "Wue-yP-06q"; */
+"Wue-yP-06q.normalTitle" = "Ver eventos creados";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "Yau-N2-vr9"; */
+"Yau-N2-vr9.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Con iSportU puedes:"; ObjectID = "Ynt-3j-s1d"; */
+"Ynt-3j-s1d.text" = "Con iSportU puedes:";
+
+/* Class = "IBUITextField"; placeholder = "Usuario"; ObjectID = "Yre-2B-3dA"; */
+"Yre-2B-3dA.placeholder" = "Usuario";
+
+/* Class = "IBUILabel"; text = "3.- Consientes que tus datos sean"; ObjectID = "ZDk-Ey-MWx"; */
+"ZDk-Ey-MWx.text" = "3.- Consientes que tus datos sean";
+
+/* Class = "IBUILabel"; text = "Ciudad"; ObjectID = "ZLn-f5-X9N"; */
+"ZLn-f5-X9N.text" = "Ciudad";
+
+/* Class = "IBUITabBarItem"; title = "Agregar Evento"; ObjectID = "aj1-CQ-2ay"; */
+"aj1-CQ-2ay.title" = "Agregar Evento";
+
+/* Class = "IBUINavigationItem"; title = "Add Event"; ObjectID = "cuy-CN-DjH"; */
+"cuy-CN-DjH.title" = "Add Event";
+
+/* Class = "IBUILabel"; text = "N"; ObjectID = "d9B-vt-Tld"; */
+"d9B-vt-Tld.text" = "N";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar/Actualizar perfil"; ObjectID = "dFd-pC-M7p"; */
+"dFd-pC-M7p.normalTitle" = "Guardar/Actualizar perfil";
+
+/* Class = "IBUIButton"; normalTitle = "Registrarse"; ObjectID = "djh-Xs-kSu"; */
+"djh-Xs-kSu.normalTitle" = "Registrarse";
+
+/* Class = "IBUILabel"; text = "Fecha del evento"; ObjectID = "eMm-rl-b3c"; */
+"eMm-rl-b3c.text" = "Fecha del evento";
+
+/* Class = "IBUILabel"; text = "Vacants:"; ObjectID = "eNM-NG-4gj"; */
+"eNM-NG-4gj.text" = "Vacants:";
+
+/* Class = "IBUILabel"; text = "Sportname"; ObjectID = "fAK-pI-WrX"; */
+"fAK-pI-WrX.text" = "Sportname";
+
+/* Class = "IBUITabBarItem"; title = "Mis eventos"; ObjectID = "fcn-mZ-Y4L"; */
+"fcn-mZ-Y4L.title" = "Mis eventos";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "gVx-6L-hty"; */
+"gVx-6L-hty.text" = "Date";
+
+/* Class = "IBUILabel"; text = "de los accidentes en eventos"; ObjectID = "gYP-G7-6nK"; */
+"gYP-G7-6nK.text" = "de los accidentes en eventos";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "gtl-D1-rua"; */
+"gtl-D1-rua.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Borrar usuario"; ObjectID = "hB5-kd-K8g"; */
+"hB5-kd-K8g.normalTitle" = "Borrar usuario";
+
+/* Class = "IBUILabel"; text = "Nombre de usuario"; ObjectID = "iGS-kw-esF"; */
+"iGS-kw-esF.text" = "Nombre de usuario";
+
+/* Class = "IBUILabel"; text = "N"; ObjectID = "iWi-dQ-Jb4"; */
+"iWi-dQ-Jb4.text" = "N";
+
+/* Class = "IBUILabel"; text = "2.- iSportU no se hace responsable"; ObjectID = "iYF-5w-xvj"; */
+"iYF-5w-xvj.text" = "2.- iSportU no se hace responsable";
+
+/* Class = "IBUILabel"; text = "User"; ObjectID = "idW-FD-Tk1"; */
+"idW-FD-Tk1.text" = "User";
+
+/* Class = "IBUILabel"; text = "Telefono"; ObjectID = "jcw-Ze-T9O"; */
+"jcw-Ze-T9O.text" = "Telefono";
+
+/* Class = "IBUILabel"; text = "Gestionar tus"; ObjectID = "kkG-87-zwQ"; */
+"kkG-87-zwQ.text" = "Gestionar tus";
+
+/* Class = "IBUILabel"; text = "eventName"; ObjectID = "l9z-3c-fLb"; */
+"l9z-3c-fLb.text" = "eventName";
+
+/* Class = "IBUILabel"; text = "Usuario"; ObjectID = "lhd-m7-d4E"; */
+"lhd-m7-d4E.text" = "Usuario";
+
+/* Class = "IBUIButton"; normalTitle = "Buscar Evento"; ObjectID = "mG2-hV-0FU"; */
+"mG2-hV-0FU.normalTitle" = "Buscar Evento";
+
+/* Class = "IBUILabel"; text = "Hour"; ObjectID = "moe-P5-LS9"; */
+"moe-P5-LS9.text" = "Hour";
+
+/* Class = "IBUINavigationItem"; title = "My events"; ObjectID = "msp-Qi-c9A"; */
+"msp-Qi-c9A.title" = "My events";
+
+/* Class = "IBUIButton"; normalTitle = "Ver eventos unidos"; ObjectID = "nQa-zT-kzQ"; */
+"nQa-zT-kzQ.normalTitle" = "Ver eventos unidos";
+
+/* Class = "IBUILabel"; text = "Place"; ObjectID = "oPA-9J-q7v"; */
+"oPA-9J-q7v.text" = "Place";
+
+/* Class = "IBUILabel"; text = "iSportU login"; ObjectID = "oQx-6v-vlb"; */
+"oQx-6v-vlb.text" = "iSportU login";
+
+/* Class = "IBUILabel"; text = "City"; ObjectID = "qBF-gk-KCw"; */
+"qBF-gk-KCw.text" = "City";
+
+/* Class = "IBUILabel"; text = "Bienvenido"; ObjectID = "qeh-ml-dGT"; */
+"qeh-ml-dGT.text" = "Bienvenido";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "qsQ-hh-LA9"; */
+"qsQ-hh-LA9.text" = "Email";
+
+/* Class = "IBUINavigationItem"; title = "Select Sport"; ObjectID = "sZc-JI-367"; */
+"sZc-JI-367.title" = "Select Sport";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "tC2-NK-1yF"; */
+"tC2-NK-1yF.text" = "Date";
+
+/* Class = "IBUILabel"; text = "Usuario"; ObjectID = "vgv-bJ-ciH"; */
+"vgv-bJ-ciH.text" = "Usuario";
+
+/* Class = "IBUILabel"; text = "Hora del evento"; ObjectID = "wM2-aF-Khf"; */
+"wM2-aF-Khf.text" = "Hora del evento";
+
+/* Class = "IBUINavigationItem"; title = "Buscar"; ObjectID = "yhi-cb-4dm"; */
+"yhi-cb-4dm.title" = "Buscar";
+
+/* Class = "IBUILabel"; text = "propios eventos"; ObjectID = "zNU-jY-EUd"; */
+"zNU-jY-EUd.text" = "propios eventos";

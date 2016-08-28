@@ -1,0 +1,35 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_7_0
+#warning "This project uses features only available in iOS SDK 7.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+    #import <FBSDKCoreKit/FBSDKCoreKit.h>
+    #import <FBSDKLoginKit/FBSDKLoginKit.h>
+    #import <MapKit/MapKit.h>
+    #import <MapKit/MKAnnotation.h>
+    #import <Parse/Parse.h>
+    #import <QuartzCore/QuartzCore.h>
+
+    #import "ActionSheetPicker.h"
+    #import "AZNotification.h"
+    #import "MBProgressHUD.h"
+    #import "SingleLineTextField.h"
+    #import "TFGAddEventViewController.h"
+    #import "TFGAllEventsAroundViewController.h"
+    #import "TFGAnnotationMap.h"
+    #import "TFGCreatedEventsTableViewCell.h"
+    #import "TFGEventDetailsViewController.h"
+    #import "TFGJoinedEventsTableViewCell.h"
+    #import "TFGResultsTableViewCell.h"
+    #import "TFGResultsTableViewController.h"
+    #import "TFGStorePinCoordinates.h"
+#endif
